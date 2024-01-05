@@ -3,4 +3,4 @@
 - Projeto desenvolvido utilizando HTML, CSS e JavaScript;
 - Curso de JavaScript do básico ao avançado (c/ Node.js e projetos) - Profº Matheus Battisti;
 
-Deploy: 
+Deploy: https://giovannakethleen.github.io/JogoDaVelha/
