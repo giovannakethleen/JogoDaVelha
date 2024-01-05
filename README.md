@@ -12,6 +12,9 @@
 
 
 *OBS: Projeto ainda não finalizado
+
+
+
 *Deploy: https://giovannakethleen.github.io/JogoDaVelha/
 
 
